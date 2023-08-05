@@ -20,7 +20,7 @@ public class CheddarMovementScript : MonoBehaviour
         position.y = position.y + 3.0f * vertical * Time.deltaTime;
         transform.position = position;
 
-        // TESTING i
+        // TESTING
 
         
     }
